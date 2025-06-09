@@ -1,1 +1,8 @@
-# django_cheat_sheet
+# چیت شیت جنگو | Django Cheat Sheet
+
+## مایگریشن ها
+
+### مایگریت معکوس
+
+
+
